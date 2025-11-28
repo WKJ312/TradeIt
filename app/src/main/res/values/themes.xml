@@ -3,6 +3,12 @@
     <style name="Base.Theme.TradeIt" parent="Theme.Material3.DayNight.NoActionBar">
         <!-- Customize your light theme here. -->
         <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+        <item name="fontFamily">@font/oswald_regular</item>
+        <item name="backgroundTint">@color/red</item>
+    <item name="textFillColor">@color/white</item>
+    <item name="colorAccent">@color/red</item>
+        <item name="color">@color/red</item>
+        <item name="colorPrimary">@color/red</item>
     </style>
 
     <style name="Theme.TradeIt" parent="Base.Theme.TradeIt" />
